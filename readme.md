@@ -22,4 +22,4 @@
 
 > _JST.pyx：
 >
-> 使用cython实现的gibbs采样部分，windows下和linux下的编译链接到python的文件_JST.pyd、_JST.so已提供。
+> 使用cython实现的gibbs采样部分，windows下和linux下的编译链接到python的动态库_JST.pyd、_JST.so已提供。
